@@ -1,6 +1,6 @@
 from setuptools import setup
 
-setup(name='pack',
+setup(name='packagetest',
       version='0.1',
       description='Package test',
       url='ssh://git@git.pbs.org:7999/~msingh/packagetest.git',
